@@ -19,7 +19,7 @@ const Home = () => {
           </h2>
 
           <p className="text-gray-400 text-justify py-6 pr-6 max-w-md">
-            I have 2 years of experience building and desgining software.
+            I have 2 years of experience building and designing software.
             Currently, I love to work on web applications using technologies like HTML, CSS, Tailwind, React etc.
           </p>
 
