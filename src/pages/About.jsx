@@ -12,19 +12,21 @@ const About = () => {
             About Me
           </p>
         </div>
-        <br/>
-        <p className="text-justify text-xl mt-20 leading-loose">
-          I'm Akshat and I belong to Sundernagar, a town in district Mandi of Himachal Pradesh.
-          <br />
-          I am pursuing my bachelors in Computer Science & Engineering with proficiency in Data Science from Jaypee University of Information Technology, Waknaghat, Solan, Himachal Pradesh.
+        <br />
+        <p className="sm:text-xl text-justify pl-1 pr-4 pt-20 leading-loose">
+          I'm Akshat and I belong to Sundernagar, a town in district Mandi of
+          Himachal Pradesh. I am pursuing my bachelors in Computer Science &
+          Engineering with proficiency in Data Science from Jaypee University of
+          Information Technology, Waknaghat, Solan, Himachal Pradesh.
         </p>
-<br/>
-        <p className="text-justify text-xl mt-20 leading-loose">
-          I enjoy doing Frontend Development and I have made several projects using HTML, CSS, Tailwind, React.<br />
-          I also have a great interest in Software development and made a couple of machine learning projects which includes Respiratory Disease Detection using CNN technique
-          and Image colorization using DCGANs.
+        <br />
+        <p className="sm:text-xl text-justify pl-1 pr-4 pt-20 leading-loose">
+          I enjoy doing Frontend Development and I have made several projects
+          using HTML, CSS, Tailwind, React. I also have a great interest in
+          Software development and made a couple of machine learning projects
+          which includes Respiratory Disease Detection using CNN technique and
+          Image colorization using DCGANs.
         </p>
-
       </div>
     </div>
   );

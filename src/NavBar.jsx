@@ -54,7 +54,7 @@ const NavBar = () => {
 
       <div
         onClick={() => setNav(!nav)}
-        className="flex fixed right-0 px-8 py-8 cursor-pointer text-gray-500 md:hidden"
+        className="flex right-0 px-8 py-8 cursor-pointer text-gray-500 md:hidden absolute"
       >
         {nav ? <FaTimes size={30} /> : <FaBars size={30} />}
       </div>
