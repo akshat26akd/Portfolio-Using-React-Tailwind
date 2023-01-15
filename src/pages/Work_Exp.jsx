@@ -15,7 +15,7 @@ const Work_Exp = () => {
                     {/*CareX*/}
 
                     <div>
-                        <h2 className='pt-10 sm:text-3xl font-bold'>
+                        <h2 className='pt-10 text-3xl font-bold'>
                             Application Development Intern
                         </h2>
                         <p className='pt-3 text-xl font-medium leading-relaxed'>
@@ -24,7 +24,7 @@ const Work_Exp = () => {
                             (Noida, Uttar Pradesh)
                         </p>
                         <div className='flex flex-col justify-between items-baseline'>
-                            <h3 className='pt-2 pb-5 sm:text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
+                            <h3 className='pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
                                 05/2022 - 07/2022
                             </h3>
                             <li>
@@ -52,7 +52,7 @@ const Work_Exp = () => {
                     {/*Infowiz*/}
 
                     <div>
-                        <h2 className='pt-10 sm:text-3xl font-bold'>
+                        <h2 className='pt-10 text-3xl font-bold'>
                             Project Intern
                         </h2>
                         <p className='pt-3 text-xl font-medium leading-relaxed'>
@@ -61,7 +61,7 @@ const Work_Exp = () => {
                             (Work From Home - Chandigarh)
                         </p>
                         <div className='flex flex-col justify-between items-baseline'>
-                            <h3 className='pt-2 pb-5 sm:text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
+                            <h3 className='pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
                                 05/2022 - 07/2022
                             </h3>
 
@@ -75,7 +75,7 @@ const Work_Exp = () => {
                     {/*AdDigital Comms*/}
 
                     <div>
-                        <h2 className='pt-10 sm:text-3xl font-bold'>
+                        <h2 className='pt-10 text-3xl font-bold'>
                             Graphic Designing Intern
                         </h2>
                         <p className='pt-3 text-xl font-medium leading-relaxed'>
@@ -84,7 +84,7 @@ const Work_Exp = () => {
                             (Work From Home)
                         </p>
                         <div className='flex flex-col justify-between items-baseline'>
-                            <h3 className='pt-2 pb-5 sm:text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
+                            <h3 className='pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
                                 05/2021 - 06/2021
                             </h3>
 
@@ -102,7 +102,7 @@ const Work_Exp = () => {
                     {/*College Guru*/}
 
                     <div>
-                        <h2 className='pt-10 sm:text-3xl font-bold'>
+                        <h2 className='pt-10 text-3xl font-bold'>
                             Multimedia Intern
                         </h2>
                         <p className='pt-3 text-xl font-medium leading-relaxed'>
@@ -112,7 +112,7 @@ const Work_Exp = () => {
                         </p>
 
                         <div className='flex flex-col justify-between items-baseline'>
-                            <h3 className='pt-2 pb-5 sm:text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
+                            <h3 className='pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400'>
                                 11/2019 - 03/2020
                             </h3>
 
