@@ -24,17 +24,16 @@ const Home = () => {
           </p>
 
           <div>
-            <Link
-              to="about"
-              smooth
-              duration={500}
+            <a
+              href="https://drive.google.com/file/d/1AJ12RIu0BfZv3_iwAGJgdPtF2Bi4E4hm/view?usp=sharing"
+              target="_blank"
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg"
             >
-              About Me
-              <span className="group-hover:rotate-90 duration-300">
-                <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
+              Resume
+              <span>
+                <MdOutlineKeyboardArrowRight size={25} className="pt-0.5" />
               </span>
-            </Link>
+            </a>
           </div>
         </div>
 
