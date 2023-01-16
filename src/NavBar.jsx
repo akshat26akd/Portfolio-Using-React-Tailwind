@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-scroll";
 
-const NavBar2 = () => {
+const NavBar = () => {
   const [nav, setNav] = useState(false);
 
   const links = [
@@ -89,4 +89,4 @@ const NavBar2 = () => {
   );
 };
 
-export default NavBar2;
+export default NavBar;
