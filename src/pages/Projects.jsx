@@ -15,8 +15,8 @@ const Projects = () => {
           {/*Image Colorization*/}
 
           <div>
-            <h2 className="pt-10 text-base md:text-3xl font-bold">
-              1) Image Colorization using Deep Convolutional Generative
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Image Colorization using Deep Convolutional Generative
               Adversarial Networks.
             </h2>
 
@@ -46,8 +46,8 @@ const Projects = () => {
           {/*Respiratory Disease Detection*/}
 
           <div>
-            <h2 className="pt-10 text-base md:text-3xl font-bold">
-              2) Respiratory Disease Detection using Respiratory Sounds via CNN
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Respiratory Disease Detection using Respiratory Sounds via CNN
             </h2>
 
             <div className="flex flex-col justify-between items-baseline">
@@ -76,8 +76,8 @@ const Projects = () => {
           {/*Portfolio*/}
 
           <div>
-            <h2 className="pt-10 text-base md:text-3xl font-bold">
-              3) Portfolio Website using ReactJs and Tailwind CSS
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Portfolio Website using ReactJs and Tailwind CSS
             </h2>
 
             <div className="flex flex-col justify-between items-baseline">
