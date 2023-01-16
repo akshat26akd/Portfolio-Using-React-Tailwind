@@ -6,7 +6,7 @@ const About = () => {
       name="about"
       className="w-full bg-gradient-to-b from-gray-800 to-black text-gray-200 md:h-screen"
     >
-      <div className="max-w-screen-lg px-8 py-12 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg px-8 pt-24 pb-12 mx-auto flex flex-col justify-center w-full h-full">
         <div>
           <p className="text-4xl md:text-5xl font-bold inline border-b-4 text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400 border-gray-500">
             About Me
