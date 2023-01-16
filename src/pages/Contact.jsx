@@ -41,6 +41,7 @@ const Contact = () => {
               rows="8"
               className="p-2 bg-transparent border-2 rounded-md text-gray-200 focus:outline-none border-purple-200"
             ></textarea>
+
             <button className="text-white bg-gradient-to-r from-purple-500 to-blue-400 px-6 py-3 mt-10 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
               Let's Talk
             </button>

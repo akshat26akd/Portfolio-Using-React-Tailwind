@@ -11,7 +11,7 @@ import SocialLinks from "./pages/SocialLinks";
 function App() {
   return (
     <div>
-      <NavBar />
+      <NavBar2 />
       <Home />
       <About />
       <Education />
