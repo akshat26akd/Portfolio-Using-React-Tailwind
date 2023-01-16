@@ -4,7 +4,7 @@ const Projects = () => {
   return (
     <div
       name="projects"
-      className="w-full h-screen py-10 bg-gradient-to-b from-black to-gray-800 text-white"
+      className="w-full h-full py-10 bg-gradient-to-b from-black to-gray-800 text-white"
     >
       <div className="max-w-screen-lg mx-auto pl-4 pt-12  flex flex-col justify-center w-full h-full text-gray-200">
         <div>
