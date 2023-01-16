@@ -7,12 +7,12 @@ const Home = () => {
       name="home"
       className="w-full bg-gradient-to-b from-black via-black to-gray-800 md:h-screen"
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 pt-12 md:flex-row">
+      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full pt-16 px-8 pb-12 md:flex-row">
         <div className="flex flex-col justify-center h-full pt-4">
-          <h1 className="pt-2 pb-4 text-5xl font-bold text-white">
+          <h1 className="pt-2 pb-4 text-4xl md:text-5xl font-bold text-white">
             I'm Akshat
           </h1>
-          <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+          <h1 className="text-5xl md:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
             A Software Developer
           </h1>
           <p className="sm:text-xl text-justify text-gray-500 py-8 max-w-md">
@@ -36,7 +36,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="h-auto shadow-gray-600 shadow-lg rounded-2xl mx-auto my-10 w-2/3 md:w-full"
+            className="h-auto shadow-gray-600 shadow-lg rounded-2xl mx-auto my-10 w-full md:w-full"
           />
         </div>
       </div>

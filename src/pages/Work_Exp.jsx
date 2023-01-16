@@ -6,60 +6,68 @@ const Work_Exp = () => {
       name="experience"
       className="w-full h-full py-10 bg-gradient-to-b from-gray-800 to-black text-gray-200"
     >
-      <div className="max-w-screen-lg mx-auto pl-4 pt-12  flex flex-col justify-center w-full h-full text-gray-200">
+      <div className="max-w-screen-lg mx-auto px-8 pt-12 flex flex-col justify-center w-full h-full text-gray-200">
         <div>
-          <h1 className="text-5xl font-bold border-b-4 text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400 border-gray-500 pt-1 inline">
+          <h1 className="text-4xl md:text-5xl font-bold leading-normal border-b-4 text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400 border-gray-500 pt-1 inline">
             Work Experience
           </h1>
 
           {/*CareX*/}
 
           <div>
-            <h2 className="pt-10 text-3xl font-bold">
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
               Application Development Intern
             </h2>
-            <p className="pt-3 text-xl font-medium leading-relaxed">
+            <p className="pt-3 text-base md:text-xl font-medium leading-relaxed">
               CareX Pvt. Ltd.
               <br />
               (Noida, Uttar Pradesh)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 05/2022 - 07/2022
               </h3>
-              <li>
+              <li className="text-sm md:text-base pb-2">
                 Developed a working prototype of the product for user as well as
                 for the service provider.
               </li>
 
-              <li>Worked in a team of 8 for the development of product.</li>
+              <li className="text-sm md:text-base pb-2">
+                Worked in a team of 8 for the development of product.
+              </li>
 
-              <li>Designed the UI of the application on Figma & Adobe XD.</li>
+              <li className="text-sm md:text-base pb-2">
+                Designed the UI of the application on Figma & Adobe XD.
+              </li>
 
-              <li>
+              <li className="text-sm md:text-base pb-2">
                 Created a wireframe of the product for the future development of
                 the product.
               </li>
 
-              <li>Developed the frontend of the app using React Native.</li>
+              <li className="text-sm md:text-base">
+                Developed the frontend of the app using React Native.
+              </li>
             </div>
           </div>
 
           {/*Infowiz*/}
 
           <div>
-            <h2 className="pt-10 text-3xl font-bold">Project Intern</h2>
-            <p className="pt-3 text-xl font-medium leading-relaxed">
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Project Intern
+            </h2>
+            <p className="pt-3 text-base md:text-xl  font-medium leading-relaxed">
               InfoWiz A Software Solution
               <br />
               (Work From Home - Chandigarh)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 05/2022 - 07/2022
               </h3>
 
-              <li>
+              <li className="text-sm md:text-base pb-2">
                 Worked on a Fake News Detection System based on Machine Learning
                 Algorithms.
               </li>
@@ -69,25 +77,25 @@ const Work_Exp = () => {
           {/*AdDigital Comms*/}
 
           <div>
-            <h2 className="pt-10 text-3xl font-bold">
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
               Graphic Designing Intern
             </h2>
-            <p className="pt-3 text-xl font-medium leading-relaxed">
+            <p className="pt-3 text-base md:text-xl font-medium leading-relaxed">
               AdDigital Communications
               <br />
               (Work From Home)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 05/2021 - 06/2021
               </h3>
 
-              <li>
+              <li className="text-sm md:text-base pb-2">
                 Designed various promotional posts for social media of the
                 company.
               </li>
 
-              <li>
+              <li className="text-sm md:text-base pb-2">
                 Designed the Letterhead, Brochure, Posters, Flexes for the
                 company.
               </li>
@@ -97,30 +105,32 @@ const Work_Exp = () => {
           {/*College Guru*/}
 
           <div>
-            <h2 className="pt-10 text-3xl font-bold">Multimedia Intern</h2>
-            <p className="pt-3 text-xl font-medium leading-relaxed">
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Multimedia Intern
+            </h2>
+            <p className="pt-3 text-base md:text-xl font-medium leading-relaxed">
               College Guru
               <br />
               (Solan, Himachal Pradesh)
             </p>
 
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 text-1xl font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 11/2019 - 03/2020
               </h3>
 
-              <li>Designed the UI of the College Guru App and website.</li>
+              <li className="text-sm md:text-base pb-2">Designed the UI of the College Guru App and website.</li>
 
-              <li>
+              <li className="text-sm md:text-base pb-2">
                 Designed the Brochure, Flyers, Posters, Social Media Posts etc.
               </li>
 
-              <li>
+              <li className="text-sm md:text-base pb-2">
                 Responsible for all the multimedia related works of this startup
                 under H.P. Government Startup Scheme.
               </li>
 
-              <li>
+              <li className="text-sm md:text-base">
                 Eventually elevated to the leadership role of Multimedia
                 operations.
               </li>

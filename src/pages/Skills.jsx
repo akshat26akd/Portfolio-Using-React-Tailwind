@@ -73,9 +73,9 @@ const Skills = () => {
       name="skills"
       className=" w-full h-full py-10 bg-gradient-to-b from-gray-800 to-black"
     >
-      <div className="max-w-screen-lg mx-auto pl-4 pt-12 flex flex-col justify-center w-full h-full text-gray-200">
+      <div className="max-w-screen-lg mx-auto px-4 py-12 flex flex-col justify-center w-full h-full text-gray-200">
         <div>
-          <p className="text-5xl font-bold border-b-4 text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400 border-gray-500 inline">
+          <p className="text-4xl md:text-5xl mx-8 font-bold border-b-4 text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400 border-gray-500 inline">
             Skills
           </p>
         </div>

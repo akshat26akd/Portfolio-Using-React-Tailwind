@@ -37,7 +37,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="w-full p-4 text-white bg-black fixed text-xl">
+    <div className="w-full p-5 text-white bg-black fixed text-base">
       <ul className="hidden justify-center md:flex">
         {links.map(({ id, link }) => (
           <li
