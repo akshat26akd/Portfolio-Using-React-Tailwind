@@ -1,4 +1,4 @@
-import NavBar from "./NavBar";
+import NavBar from "./Navbar/NavBar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Education from "./pages/Education";
@@ -11,7 +11,7 @@ import SocialLinks from "./pages/SocialLinks";
 function App() {
   return (
     <div>
-      <NavBar/>
+      <NavBar />
       <Home />
       <About />
       <Education />
