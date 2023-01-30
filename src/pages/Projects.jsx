@@ -16,8 +16,8 @@ const Projects = () => {
 
           <div>
             <h2 className="pt-10 text-xl md:text-3xl font-bold">
-              Image Colorization using Deep Convolutional Generative
-              Adversarial Networks.
+              Image Colorization using Deep Convolutional Generative Adversarial
+              Networks.
             </h2>
 
             <div className="flex flex-col justify-between items-baseline">
@@ -26,9 +26,8 @@ const Projects = () => {
               </h3>
 
               <li className="text-sm md:text-base">
-                Designed and evaluated a deep learning-based methodology to
-                monitor respiratory problems using Convolutional Neural
-                Networks.
+                To fully generalize the colorization procedure using a
+                conditional Deep Convolutional Generative Adversarial Network.
               </li>
               <br />
               <a
