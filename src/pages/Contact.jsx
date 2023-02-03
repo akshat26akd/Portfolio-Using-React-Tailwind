@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div
       name="contact"
-      className="w-full h-screen py-32 bg-gradient-to-b from-black to-gray-800 p-4 text-gray-200"
+      className="w-full h-screen py-24 bg-gradient-to-b from-black to-gray-800 p-4 text-gray-200"
     >
       <div className="flex flex-col justify-center max-w-screen-lg mx-auto px-8 py-12 ">
         <div>
@@ -31,7 +31,7 @@ const Contact = () => {
               required
             />
             <input
-              type="text"
+              type="email"
               name="email"
               placeholder="Enter your email"
               className="my-4 p-2 bg-transparent border-2 rounded-md text-gray-200 focus:outline-none border-purple-200"
