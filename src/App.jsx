@@ -5,6 +5,7 @@ import Education from "./pages/Education";
 import Work_Exp from "./pages/Work_Exp";
 import Projects from "./pages/Projects";
 import Skills from "./pages/Skills";
+import Certifications from "./pages/Certifications";
 import Contact from "./pages/Contact";
 import SocialLinks from "./pages/SocialLinks";
 
@@ -18,6 +19,7 @@ function App() {
       <Work_Exp />
       <Projects />
       <Skills />
+      <Certifications />
       <Contact />
       <SocialLinks />
     </div>
