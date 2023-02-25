@@ -23,7 +23,7 @@ const Home = () => {
 
           <div>
             <a
-              href="https://drive.google.com/file/d/1AJ12RIu0BfZv3_iwAGJgdPtF2Bi4E4hm/view?usp=sharing"
+              href="https://drive.google.com/uc?export=download&id=1AJ12RIu0BfZv3_iwAGJgdPtF2Bi4E4hm"
               target="_blank"
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg duration-300 hover:scale-105 "
             >
