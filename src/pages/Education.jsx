@@ -24,10 +24,10 @@ const Education = () => {
               (Solan, Himachal Pradesh)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 2019 - Present
               </h3>
-              <h3 className="pt-1 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-1 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 8.0 C.G.P.A
               </h3>
             </div>
@@ -45,10 +45,10 @@ const Education = () => {
               (Kot, Sundarnagar, Himachal Pradesh)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 2018 - 2019
               </h3>
-              <h3 className="pt-1 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-1 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 Percentage: 84.2%
               </h3>
             </div>
@@ -66,10 +66,10 @@ const Education = () => {
               (BBMB Colony, Sundarnagar, Himachal Pradesh)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 2016 - 2017
               </h3>
-              <h3 className="pt-1 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-1 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 9.8 C.G.P.A
               </h3>
             </div>

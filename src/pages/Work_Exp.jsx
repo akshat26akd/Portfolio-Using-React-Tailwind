@@ -24,7 +24,7 @@ const Work_Exp = () => {
               (Noida, Uttar Pradesh)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 05/2022 - 07/2022
               </h3>
               <li className="text-sm md:text-base pb-2">
@@ -63,7 +63,7 @@ const Work_Exp = () => {
               (Work From Home - Chandigarh)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 05/2022 - 07/2022
               </h3>
 
@@ -86,7 +86,7 @@ const Work_Exp = () => {
               (Work From Home)
             </p>
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 05/2021 - 06/2021
               </h3>
 
@@ -115,7 +115,7 @@ const Work_Exp = () => {
             </p>
 
             <div className="flex flex-col justify-between items-baseline">
-              <h3 className="pt-2 pb-5 font-normal text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+              <h3 className="pt-2 pb-5 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
                 11/2019 - 03/2020
               </h3>
 
