@@ -40,6 +40,32 @@ const Certifications = () => {
             </div>
           </div>
 
+          {/*Advanced React*/}
+
+          <div>
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Advanced React
+            </h2>
+
+            <div className="flex flex-col justify-between items-baseline">
+              <h3 className="pt-2 pb-5 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+                Coursera
+              </h3>
+
+              <ul className="text-sm md:text-base">
+                Credential ID: XB52CCLDC6YW
+              </ul>
+              <br />
+              <a
+                className="duration-300 hover:scale-105 group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer"
+                href={"https://www.coursera.org/verify/XB52CCLDC6YW"}
+                target="_blank"
+              >
+                View Credentials
+              </a>
+            </div>
+          </div>
+
           {/*Programming for Everybody (Getting Started with Python)*/}
 
           <div>
