@@ -16,7 +16,7 @@ const Projects = () => {
 
           <div>
             <h2 className="pt-10 text-xl md:text-3xl font-bold">
-              Dynamic Weather App using ReactNative
+              Dynamic Weather App using React Native
             </h2>
 
             <div className="flex flex-col justify-between items-baseline">
@@ -25,15 +25,15 @@ const Projects = () => {
               </h3>
 
               <li className="text-sm md:text-base text-justify">
-                Developed a Dynamic Weather App using HTML5, CSS3, ReactNative
-                and OpenWeather API which shows information like current weather
-                condition with icon and text, Realtime Temperature, Feels Like
-                Temperature, Wind Speed, Humidity & Visibility of current
-                location using geolocation module.
+                Developed a Dynamic Weather App using HTML5, CSS3, React Native
+                and OpenWeatherApp API which shows information like current
+                weather condition with icon and text, Realtime Temperature,
+                Feels Like Temperature, Wind Speed, Humidity & Visibility of
+                current location using geolocation module.
                 <br />
                 <br />
-                Click on the Live Demo button to get deatils of weather at your
-                location.
+                Click on the Live Demo button below to get the weather details
+                of your area.
               </li>
               <br />
               <div className="flex flex-row gap-5 ">
@@ -76,7 +76,7 @@ const Projects = () => {
                 I've also exported the APK version of it for Android Devices.
                 <br />
                 <br />
-                Click on the Live Demo button to convert any currency.
+                Click on the Live Demo button below to convert any currency.
               </li>
               <br />
               <div className="flex flex-row gap-5 ">
@@ -112,9 +112,9 @@ const Projects = () => {
                 11/2022 - 12/2022
               </h3>
 
-              <li className="text-sm md:text-base">
-                Developed this personal portfolio website using latest
-                technologies like ReactJs, Tailwind CSS etc.
+              <li className="text-sm md:text-base text-justify">
+                Developed this personal portfolio website using technologies
+                like ReactJs, Tailwind CSS etc.
               </li>
               <br />
               <a
@@ -142,9 +142,10 @@ const Projects = () => {
                 01/2022 - 05/2022
               </h3>
 
-              <li className="text-sm md:text-base">
-                To fully generalize the colorization procedure using a
-                conditional Deep Convolutional Generative Adversarial Network.
+              <li className="text-sm md:text-base text-justify">
+                Designed a Machine Learning methodology to fully generalize the
+                colorization procedure using a conditional Deep Convolutional
+                Generative Adversarial Network.
               </li>
               <br />
               <a
@@ -171,8 +172,8 @@ const Projects = () => {
                 07/2021 - 11/2021
               </h3>
 
-              <li className="text-sm md:text-base">
-                Designed and evaluated a deep learning-based methodology to
+              <li className="text-sm md:text-base text-justify">
+                Designed and evaluated a deep learning based methodology to
                 monitor respiratory problems using Convolutional Neural
                 Networks.
               </li>
