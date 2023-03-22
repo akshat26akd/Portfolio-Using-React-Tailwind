@@ -19,7 +19,7 @@ const Home = () => {
             <p className="sm:text-xl text-justify text-gray-500 py-8 max-w-md">
               I have 2 years of experience building and designing software.
               Currently, I love to work on web applications using technologies
-              like HTML, CSS, Tailwind, React etc.
+              like HTML, CSS, ReactJS, APIs etc.
             </p>
             <div>
               <a
