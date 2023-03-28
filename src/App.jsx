@@ -1,3 +1,7 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./App.css";
+
 import NavBar from "./Navbar/NavBar";
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -9,21 +13,18 @@ import Certifications from "./pages/Certifications";
 import Contact from "./pages/Contact";
 import SocialLinks from "./pages/SocialLinks";
 
-function App() {
-  return (
-    <div>
-      <NavBar />
-      <Home />
-      <About />
-      <Education />
-      <Work_Exp />
-      <Projects />
-      <Skills />
-      <Certifications />
-      <Contact />
-      <SocialLinks />
-    </div>
-  );
-}
-
-export default App;
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  <React.StrictMode>
+    <NavBar />
+    <Home />
+    <About />
+    <Education />
+    <Work_Exp />
+    <Projects />
+    <Skills />
+    <Certifications />
+    <Contact />
+    <SocialLinks />
+  </React.StrictMode>
+);
