@@ -7,7 +7,7 @@ const Home = () => {
       name="home"
       className="w-full h-screen bg-gradient-to-b from-black via-black to-gray-800"
     >
-      <div className="max-w-screen-lg h-screen md:grid md:grid-cols-2 flex flex-col mx-auto pt-16 px-8 pb-12 items-center">
+      <div className="max-w-screen-lg h-screen md:grid md:grid-cols-2 flex flex-col md:gap-8 mx-auto pt-16 px-8 md:px-4 pb-6 items-center">
         <>
           <div>
             <h1 className="pt-6 pb-4 text-4xl md:text-5xl font-bold text-white">
@@ -19,7 +19,7 @@ const Home = () => {
             <p className="sm:text-xl text-justify text-gray-500 py-8 max-w-md">
               I have 2 years of experience building and designing software.
               Currently, I love to work on web applications using technologies
-              like HTML, CSS, ReactJS, APIs etc.
+              like HTML, CSS, ReactJS etc.
             </p>
             <div>
               <a

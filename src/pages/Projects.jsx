@@ -30,8 +30,9 @@ const Projects = () => {
                 weather condition with icon and text, Realtime Temperature,
                 Feels Like Temperature, Wind Speed, Humidity & Visibility of
                 current location using geolocation module.
-                <br />
-                <br />
+              </li>
+              <br />
+              <li className="text-sm md:text-base text-justify">
                 Click on the Live Demo button below to get the weather details
                 of your area.
               </li>
@@ -71,13 +72,17 @@ const Projects = () => {
                 Developed Realtime Currency Converter using ReactJs, Material UI
                 and Freecurrency API where you can covert currency of all major
                 countries into each other with realtime exchange rates.
-                <br />
-                <br />
-                I've also exported the APK version of it for Android Devices.
-                <br />
-                <br />
-                Click on the Live Demo button below to convert any currency.
               </li>
+              <br />
+              <li className="text-sm md:text-base text-justify">
+                I've also exported the APK version of it for Android Devices.
+              </li>
+
+              <br />
+              <li className="text-sm md:text-base text-justify">
+                Click on the Live Demo button below to convert any currency
+              </li>
+
               <br />
               <div className="flex flex-row gap-5 ">
                 <a
