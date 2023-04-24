@@ -16,6 +16,47 @@ const Projects = () => {
 
           <div>
             <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Reminder App using React & Firebase
+            </h2>
+
+            <div className="flex flex-col justify-between items-baseline">
+              <h3 className="pt-2 pb-5 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+                04/2023 - 04/2023
+              </h3>
+
+              <li className="text-sm md:text-base text-justify">
+                Developed a Reminder App using React & Firebase in which you can
+                sign in with your email and password and set reminders for your
+                daily tasks.
+              </li>
+              <br />
+              <li className="text-sm md:text-base text-justify">
+                Click on the Live Demo button below to set your reminders.
+              </li>
+              <br />
+              <div className="flex flex-row gap-5 ">
+                <a
+                  className="group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointershadow-gray-700 shadow-gray-700 shadow-lg duration-300 hover:scale-105"
+                  href={"https://reminder-app-triluxo.netlify.app/"}
+                  target="_blank"
+                >
+                  Live Demo
+                </a>
+                <a
+                  className="duration-300 hover:scale-105 group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg"
+                  href={"https://github.com/akshat26akd/Reminder-App-Triluxo"}
+                  target="_blank"
+                >
+                  GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+
+          {/*Weather App*/}
+
+          <div>
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
               Dynamic Weather App using React Native
             </h2>
 
