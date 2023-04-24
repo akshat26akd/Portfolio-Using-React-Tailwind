@@ -194,15 +194,24 @@ const Projects = () => {
                 Generative Adversarial Network.
               </li>
               <br />
-              <a
-                className="duration-300 hover:scale-105 group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg"
-                href={
-                  "https://github.com/akshat26akd/Image-Colorization-Using-GANs"
-                }
-                target="_blank"
-              >
-                GitHub
-              </a>
+              <div className="flex flex-row gap-5 ">
+                <a
+                  className="duration-300 hover:scale-105 group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg"
+                  href={"https://image-colorization.netlify.app/"}
+                  target="_blank"
+                >
+                  Live Demo
+                </a>
+                <a
+                  className="duration-300 hover:scale-105 group text-white w-fit px-3 py-2 flex items-center rounded-md bg-gradient-to-r from-purple-500 to-blue-400 cursor-pointer shadow-gray-700 shadow-lg"
+                  href={
+                    "https://github.com/akshat26akd/Image-Colorization-Using-GANs"
+                  }
+                  target="_blank"
+                >
+                  GitHub
+                </a>
+              </div>
             </div>
           </div>
 
