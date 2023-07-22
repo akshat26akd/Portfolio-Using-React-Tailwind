@@ -12,6 +12,28 @@ const Work_Exp = () => {
             Work Experience
           </h1>
 
+          {/*Continental*/}
+
+          <div>
+            <h2 className="pt-10 text-xl md:text-3xl font-bold">
+              Graduate Engineer Trainee (GET)
+            </h2>
+            <p className="pt-3 text-base md:text-xl font-medium leading-relaxed">
+              Continental Automotive Components Pvt. Ltd. (TCI)
+              <br />
+              (Bengaluru, Karnataka)
+            </p>
+            <div className="flex flex-col justify-between items-baseline">
+              <h3 className="pt-2 pb-5 font-semibold  text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
+                07/2023 - Present
+              </h3>
+              <li className="text-sm md:text-base pb-2">
+                Undergoing a 3 months training program in the field of
+                Automotive Software Development.
+              </li>
+            </div>
+          </div>
+
           {/*CareX*/}
 
           <div>
@@ -119,7 +141,9 @@ const Work_Exp = () => {
                 11/2019 - 03/2020
               </h3>
 
-              <li className="text-sm md:text-base pb-2">Designed the UI of the College Guru App and website.</li>
+              <li className="text-sm md:text-base pb-2">
+                Designed the UI of the College Guru App and website.
+              </li>
 
               <li className="text-sm md:text-base pb-2">
                 Designed the Brochure, Flyers, Posters, Social Media Posts etc.

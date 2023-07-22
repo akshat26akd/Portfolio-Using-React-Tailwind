@@ -17,9 +17,7 @@ const Home = () => {
               A Software Developer
             </div>
             <p className="sm:text-lg text-justify text-gray-500 py-8 max-w-md">
-              I have 2 years of experience building and designing software.
-              Currently, I love to work on web applications using technologies
-              like HTML, CSS, ReactJS etc.
+              Currently I am working as a Graduate Engineer Trainee in Continental Automotive Components Pvt. Ltd. Technical Center India.
             </p>
             <div>
               <a

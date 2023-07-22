@@ -25,10 +25,10 @@ const Education = () => {
             </p>
             <div className="flex flex-col justify-between items-baseline">
               <h3 className="pt-2 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
-                2019 - Present
+                07/2019 - 07/2023
               </h3>
               <h3 className="pt-1 font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-400">
-                8.0 C.G.P.A
+                7.98 C.G.P.A
               </h3>
             </div>
           </div>

@@ -21,7 +21,7 @@ const About = () => {
         </p>
         <br />
         <p className="text-base md:text-xl text-justify pl-1 pr-4 pt-10 leading-loose">
-          I enjoy doing Frontend Development and I have made several projects
+          I enjoy doing Software Development and I have made several projects
           using HTML, CSS, Tailwind, React. I also have a great interest in
           Software development and made a couple of machine learning projects
           which includes Respiratory Disease Detection using CNN technique and
