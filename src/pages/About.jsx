@@ -15,17 +15,17 @@ const About = () => {
         <br />
         <p className="text-base md:text-xl text-justify pl-1 pr-4 pt-10 leading-loose">
           I'm Akshat and I belong to Sundernagar, a town in district Mandi of
-          Himachal Pradesh. I am pursuing my bachelors in Computer Science &
+          Himachal Pradesh. I completed my bachelors in Computer Science &
           Engineering with proficiency in Data Science from Jaypee University of
           Information Technology, Waknaghat, Solan, Himachal Pradesh.
         </p>
         <br />
         <p className="text-base md:text-xl text-justify pl-1 pr-4 pt-10 leading-loose">
           I enjoy doing Software Development and I have made several projects
-          using HTML, CSS, Tailwind, React. I also have a great interest in
-          Software development and made a couple of machine learning projects
-          which includes Respiratory Disease Detection using CNN technique and
-          Image colorization using DCGANs.
+          using HTML, CSS, ReactJS, Python & Machine Learning which includes
+          Realtime Weather App, Reminder App, Currency Converter, Image
+          colorization using DCGANs, Respiratory Disease Detection using CNN
+          technique.
         </p>
       </div>
     </div>
